@@ -52,9 +52,11 @@ Atuei no desenvolvimento de sistemas web para clientes industriais e corporativo
 
 <div align="center">
 
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDMitzuiama&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDMitzuiama&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDMitzuiama&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDMitzuiama&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JoaoDMitzuiama&theme=dark&hide_border=true&locale=pt_BR)
 
 </div>
 
